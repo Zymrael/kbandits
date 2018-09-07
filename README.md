@@ -1,3 +1,7 @@
 # Reinforcement Learning
 Reinforcement Learning - kbandits
-Simple implementation of a solution for the famous kbandits problem in reinforcement learning 
+Simple implementation of an epsilon-greedy solution for the k-bandits problem.
+
+
+Ideas and algorithm explained in the amazing book "Introduction to Reinforcement Learning" 
+http://incompleteideas.net/book/the-book-2nd.html by Richard S. Sutton and Andrew G. Barto
