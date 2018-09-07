@@ -1,5 +1,5 @@
-# Reinforcement Learning
-Reinforcement Learning - kbandits
+# Reinforcement Learning - k-bandits
+
 Simple implementation of an epsilon-greedy solution for the k-bandits problem.
 
 
